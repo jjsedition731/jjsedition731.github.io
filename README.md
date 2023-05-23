@@ -1,2 +1,3 @@
 # jjsedition731.github.io
-This is a testing zone sooooooo here yall have it (note to self: GET GITHUB DESKTOP OR YOU ARE SCREWEEDDDD)
+Welcome to the README! Y'all better not copy my web site or bad things are going to happen...
+Anyway have a good day!
