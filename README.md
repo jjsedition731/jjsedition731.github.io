@@ -1,3 +1,3 @@
-# jjsedition731.github.io
-Welcome to the README! Y'all better not copy my web site or bad things are going to happen...
-Anyway have a good day!
+theme: jekyll-theme-minimal
+title: jjsedition731 
+description: Bookmark this to keep an eye on my project updates!
