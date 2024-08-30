@@ -1,3 +1,4 @@
 # jjsedition731.github.io
-Welcome to the README! Y'all better not copy my web site or bad things are going to happen...
-Anyway have a good day!
+Welcome to the README! This is just a quick demo of introducing myself onto this platform.
+Afterall, Github is a way to show off some projects to either help modify your Operating System to make it look better.
+I hope you like this one!
